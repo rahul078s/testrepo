@@ -1,2 +1,2 @@
 print('Hello, World!')
-pritn('New Changes are made')
+print('New Changes are made')
